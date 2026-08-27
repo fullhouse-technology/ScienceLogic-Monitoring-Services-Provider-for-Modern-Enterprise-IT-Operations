@@ -354,13 +354,18 @@ A connected monitoring approach can help technology teams understand infrastruct
 
 | Locations |
 | --------- |
-| Germany   |
-| Berlin    |
-| Frankfurt |
-| Munich    |
-| Hamburg   |
-| Stuttgart |
-| Cologne   |
+| California |
+| New York  |
+| Texas  |
+| Washington |
+| Massachusetts |
+| Illinois  |
+| Georgia |
+| Virginia |
+| Florida  |
+| Colorado |
+| Arizona |
+| North Carolina |
 
 ---
 
